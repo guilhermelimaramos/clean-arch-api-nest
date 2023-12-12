@@ -39,6 +39,7 @@ lerna-debug.log*
 # Docker
 !.docker/postgres/Dockerfile
 .env
+.env.development
 .env.test
 tsconfig.tsbuildinfo
 ```
